@@ -1,1 +1,1 @@
-A script to display contents of the working directory
+A script to display contents of my working directory
